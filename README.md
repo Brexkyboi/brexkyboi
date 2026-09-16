@@ -1,1 +1,2 @@
-https://github.com/residentevil2/residentevil2/blob/main/re1%202.png   
+<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/6d5ab7cc-5b1e-4458-a048-ee8ec1e3bcd8" />
+
